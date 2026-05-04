@@ -1,0 +1,15 @@
+{
+    "name": "programadores-para-la-paz-modulo2-semana1-dia2",
+    "version": "1.0.0",
+    "description": "Cliente web con fetch conectado a servidor Express.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "author": "Programa Capacitación en Democracia y Tecnología",
+    "license": "MIT"
+  }
+  
